@@ -91,5 +91,6 @@ Each Department can have many Employees.
 Each Employee can work on multiple Projects (many-to-many relationship).
 Each Project can involve multiple Employees (many-to-many relationship).
 Bellow there is the screenshort od that canceptual diagram:
-![image](https://github.com/user-attachments/assets/586c5efb-e2b3-46fc-af00-cd56e232f9ca)
+![image](https://github.com/user-attachments/assets/68adf211-69bf-4ac1-956d-c353ad276d9e)
+
 
